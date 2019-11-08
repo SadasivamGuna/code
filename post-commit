@@ -1,0 +1,3 @@
+#!/bin/sh
+curl --user admin:1104ebf8da9bfa5c86217f5f8f4eb829a9 http://localhost:8081/job/petclinic/job/petclinicPackage/build?token=ausdj4537
+echo "jenkins from an external script"
